@@ -1,0 +1,5 @@
+yfinance
+python-telegram-bot
+schedule
+matplotlib
+pillow
